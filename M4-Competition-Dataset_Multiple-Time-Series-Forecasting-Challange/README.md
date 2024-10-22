@@ -1,8 +1,7 @@
 # About Dataset
 
-M4 Data contains 961 Hourly Time Series and the starting and the ending of the data is actually left unkown. M4 Dataset was made in December 28th, 2017 by Prof Markidakis from randomly selected 100.000 Continuous Hourly Time Series Data from varios business realm. This is why in dataset we have no observation of the date_time information.
-It is also important to mention that the dataset itself has been preprocessed so that the data has range of min 10 and has no negative observation. 
-In summary, the M4 competition and dataset aim to push the boundaries of time series forecasting, promote collaborative research, and benchmark forecasting techniques for both academia and industry.
+M4 is one of the most prestigeous international competition of Time Series. M4 Dataset was made in December 28th, 2017 by Prof Markidakis from randomly selected 100.000 Continuous Time Series Data from varios business realm within ForeDeck Database. During competitions, each candidate could choose one of the followings Time Series Category, which are: Yearly, Quarterly, Monthly, Daily, and Hourly Data. 
+For Hourly Data, it contains 414 different Hourly Time Series which has minimum 700 periods. To ensure objectivity of the competition, dataset have no observation of the date_time information and any other information regarding to the origin of individual time series. but we know that all Time Series has the same frequency. It is also important to mention that the dataset itself has been preprocessed so that the data has range of min 10 and has no negative observation to prevent error during model assessments. 
 
 # Goals and Objectives of the M4 Competition:
 1. Evaluate Forecasting Methods:
