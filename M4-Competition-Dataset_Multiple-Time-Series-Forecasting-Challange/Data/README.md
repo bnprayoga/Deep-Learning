@@ -1,4 +1,3 @@
 Dataset information:
-
-raw_data.csv : for raw dataset
-preprocessed_data.csv : preprocessed dataset, applying transformation
+1. raw_data.csv : for raw dataset
+2. preprocessed_data.csv : preprocessed dataset, applying transformation
